@@ -37,7 +37,7 @@ HSSR = 3; HSPZ = 4;
 
 % Helper Anon Functions
 MakeStateSpace = @(A) ss(A, B, C, D, ... % Generates state space model
-    'StateName', States, 'InputName', Inputs, 'OutputName', Outputs'); 
+    'StateName', States, 'InputName', Inputs, 'OutputName', Outputs); 
 
 %% Unstable System SR+PZ
 
