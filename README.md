@@ -4,7 +4,7 @@ In order to run the design procedure and produce all of the plots/figures obtain
 ---
 
 ### Course
-ECE 688: Multivariate Control Systems (Fall 2011)   
+ECE 682: Multivariate Control Systems (Fall 2011)   
 University of Waterloo, Ontario Canada   
 
 ---
